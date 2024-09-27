@@ -4,7 +4,7 @@ Module 2 Challenge
 
 Included in Repository:
 - Mulltiple_year_stock_data_macro-enabled.xlsm
-- ticker_summary_script.vb
+- ticker_summary_script.vba
 - Q1 Screenshot
 - Q2 Screenshot
 - Q3 Screenshot
